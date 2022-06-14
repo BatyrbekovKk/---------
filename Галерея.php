@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html style="font-size: 16px;">
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -60,10 +60,13 @@
         </nav>
         <img class="u-image u-image-default u-image-1" src="images/Main_Black.svg" alt="" data-image-width="484" data-image-height="241" data-href="Главная.html" data-page-id="111703238">
         <a href="/index.html" class="u-border-none u-btn u-btn-round u-button-style u-palette-1-light-2 u-radius-15 u-btn-1">Войти</a>
-      </div></header> 
+      </div></header>  -->
 
 
+          <?php
 
+          include 'shapka.php';
+          ?>  
       <!-- ---------- -->
 
       <div class="gallery">
@@ -310,13 +313,7 @@
 
     
     
-    <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-98cc"><div class="u-clearfix u-sheet u-sheet-1">
-        <img class="u-image u-image-default u-image-1" src="images/Main_White.svg" alt="" data-image-width="484" data-image-height="241" data-href="Главная.html" data-page-id="111703238">
-        <img class="u-image u-image-circle u-preserve-proportions u-image-2" src="images/Avatar-8.png" alt="" data-image-width="1413" data-image-height="1413" data-href="https://vk.com/guapphoto">
-        <p class="u-text u-text-1">Вк</p>
-        <img class="u-image u-image-default u-image-3" src="images/guap.png" alt="" data-image-width="315" data-image-height="140" data-href="https://guap.ru/creative/foto">
-      </div></footer>
-    
-  </body>
-</html>
+    <?php
+        include 'podval.php';
+    ?>
 

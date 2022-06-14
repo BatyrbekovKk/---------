@@ -40,9 +40,9 @@
           </div>
           <div class="u-custom-menu u-nav-container">
             <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-light-1 u-text-hover-palette-2-base" href="Главная.html" style="padding: 10px 52px;">Главная</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-light-1 u-text-hover-palette-2-base" style="padding: 10px 52px;" href="Галерея.html">Галерея</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-light-1 u-text-hover-palette-2-base" style="padding: 10px 52px;" href="Новости.html">Новости</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-light-1 u-text-hover-palette-2-base" href="Участники.html" style="padding: 10px 52px;">Участники</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-light-1 u-text-hover-palette-2-base" style="padding: 10px 52px;" href="Галерея.php">Галерея</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-light-1 u-text-hover-palette-2-base" style="padding: 10px 52px;" href="Новости.php">Новости</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-light-1 u-text-hover-palette-2-base" href="Участники.php" style="padding: 10px 52px;">Участники</a>
 </li></ul>
           </div>
           <div class="u-custom-menu u-nav-container-collapse">
